@@ -1,4 +1,7 @@
-# UnrealExercise05
+# UnrealExercise05  
+试玩视频：链接: https://pan.baidu.com/s/1KJBBYg-LJbYCEAZrHwpfwg  密码: ewdj  
+安装包：链接: https://pan.baidu.com/s/1JAzEYprL_-T9mrvNNy3yJA  密码: bpkf  
+
 20201127  
 1.完善了换枪的逻辑    
 2.完善了UI按键功能，使移动端的开火操作更为方便  
